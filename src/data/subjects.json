@@ -1,0 +1,14 @@
+{
+  "$schema": "../data-schema.json",
+  "data": [
+    "world",
+    "solar system",
+    "galaxy",
+    "universe",
+    "you",
+    "me",
+    "doctor",
+    "my darling",
+    "darkness my old friend"
+  ]
+}

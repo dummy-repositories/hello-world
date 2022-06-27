@@ -1,0 +1,31 @@
+{
+  "$schema": "../data-schema.json",
+  "data": [
+    "Hello",
+    "Bonjour",
+    "Hola",
+    "Ciao",
+    "Hallo",
+    "Guten Tag",
+    "Bok",
+    "Salut",
+    "Ola",
+    "Privet",
+    "Hi",
+    "Hey",
+    "Hej",
+    "Hallå",
+    "Tere",
+    "Szia",
+    "Howdy",
+    "Greetings",
+    "Salutations",
+    "Good day",
+    "Good morning",
+    "Good afternoon",
+    "Good evening",
+    "Good night",
+    "Bonsoir",
+    "Bongiorno"
+  ]
+}
